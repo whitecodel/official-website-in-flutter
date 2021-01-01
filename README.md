@@ -4,4 +4,4 @@ A new Flutter Web App.
 
 ## Demo
 
-http://taczclub.com/
+https://taczclub.com/
